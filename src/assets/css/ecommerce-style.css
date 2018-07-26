@@ -1,0 +1,49 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p, span {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  padding: 200px 0;
+
+  background: url('../img/header.jpg') no-repeat center/cover;
+  margin-bottom: 15px;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+/* NAV */
+
+nav .navbar-brand {
+}
+
+nav .navbar-brand {}
+
+/* end NAV */
+
+
+/* PRODUCT LIST */
+
+#product-list {
+  padding-top: 30px;
+  text-align: center;
+}
+
+#product-list p {
+}
+
+#product-list .product-item {
+  margin-bottom: 15px;
+}
+
+#product-list .product-item img {
+  border-radius: 10px;
+}
+
+/* END PRODUCT LIST */
